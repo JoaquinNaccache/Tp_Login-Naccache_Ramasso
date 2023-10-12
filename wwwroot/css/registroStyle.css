@@ -1,0 +1,23 @@
+.condiciones{
+    background-color: #BABBBD;
+    padding: 15px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.condiciones p{
+    color: #373838;
+    transition: ease 0.5s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: #16b948;
+}
+
+body {
+    background-color: #9f1212;
+}
